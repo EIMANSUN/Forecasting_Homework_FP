@@ -1,7 +1,8 @@
 # Forecasting_Homework_FP
 Homework Task for Data Scientists for FuturePros programme By. Eimantas Vengris
 
-Status - Completed
+**Status - Completed**
+All work has been done in single jupyter notebook named Forecasting
 
 ### Project Structure
 * Data loading, cleaning and preperation operations
